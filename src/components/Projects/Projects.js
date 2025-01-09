@@ -83,7 +83,7 @@ ghLink="https://github.com/Mallik0715/Employee_Management_System"
 
   This project showcases my ability to create practical, engaging, and visually appealing web tools with a focus on user experience using modern frontend technologies.`
   }
-     ghLink="https://github.com/Mallik0715/EcomProject"
+     ghLink="https://github.com/Mallik0715/Random_Password_Generaotor"
             />
      </Col>
 {/* 
