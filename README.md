@@ -87,16 +87,16 @@ Welcome to my personal portfolio! This is a showcase of my work, skills, and pro
 - [Contact](#contact)
 
 ## About Me
-Hi! I'm **Karunakar Usala**, a passionate web developer skilled in both front-end and back-end technologies. I specialize in building full-stack applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and other modern web technologies like Django/Flask.
+Hi! I'm **Malliarjun Milkuri**, a passionate web developer skilled in both front-end and back-end technologies. I specialize in building full-stack applications using the **Full stack-Java** (MongoDB, Express.js, React.js, Node.js) and other modern web technologies like Django/Flask.
 
 In this portfolio, you’ll find a selection of projects I’ve worked on, including web apps, game projects, and more.
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Backend:** SpringBoot
+- **Database:**MYSQL
 - **Version Control:** Git, GitHub
-- **Deployment:** Netlify
+- **Deployment:** Vercel
 
 ## Features
 - **Interactive Design:** A dynamic and responsive interface using React.js and Tailwind CSS.
@@ -110,7 +110,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone  https://github.com/karunakarusala
+   git clone  https://github.com/Mallik0715
 
 Navigate to the project directory:
 
@@ -144,9 +144,9 @@ portfolio-website/
 Contact
 Feel free to reach out to me at:
 
-Email: karunakarusala@gmail.com
-LinkedIn: http://www.linkedin.com/in/karunakar-usala-230b4a292
-GitHub: https://github.com/karunakarusala
+Email: mallikarjun0715@gmail.com
+LinkedIn:https://www.linkedin.com/in/mallikarjun-milkuri-287a13291/
+GitHub: https://github.com/mallik0715
 
 Thank you for visiting my portfolio! Feel free to explore my projects and get in touch for any collaborations or opportunities.
 
