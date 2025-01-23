@@ -43,9 +43,15 @@ ghLink="https://github.com/Mallik0715/Employee_Management_System"
                 
                 Tech Stack
                 Frontend: React.js, Redux Toolkit, Tailwind CSS, Shadcn/UI for styling and state management.  
+<<<<<<< HEAD
                 Backend: Spring Boot, Java, MySQL for data handling. 
                 APIs: RESTful APIs for communication between frontend and backend. 
                 Postman:Used for Teting the apis performance and working. 
+=======
+                Backend: Spring Boot, Java, MySQL for data handling.  
+                APIs: RESTful APIs for communication between frontend and backend. 
+                Testing APIs using the tool called Postman.
+>>>>>>> 00c834efea1b8f457d28ed04263fd7e9181e44a2
                 Tools: Postman for testing APIs.  
             
                 Features
